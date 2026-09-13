@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large raw datasets
+data/raw/
+data/processed/*.csv
+data/processed/*.parquet
+data/processed/*.graphml
+
+# Reports generated locally
+data/reports/
+
+# Local model files
+models/*.joblib
+
+# Streamlit
+.streamlit/secrets.toml
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
