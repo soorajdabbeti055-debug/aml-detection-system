@@ -1,10 +1,9 @@
 pandas
 numpy
-polars
-duckdb
-matplotlib
-seaborn
-scikit-learn
-jupyter
-openpyxl
 pyarrow
+scikit-learn
+xgboost
+joblib
+networkx
+streamlit
+plotly
